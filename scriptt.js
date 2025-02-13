@@ -103,6 +103,15 @@ Hope your day’s filled with lots of laughs, good times, and little moments tha
 Whatever you’re up to today, I hope it’s a good one. And hey, if you ever need someone to chill with, you know where to find me. 😉
 
 Have an awesome day! ❤️`,
+"Stevan": `Happy Valentine’s Day, bro!
+
+Yeah, I know today is supposed to be all about couples and romance, but honestly, Valentine’s Day is also about appreciating the people who make life better—and you’re definitely one of them. So here’s a little shoutout to one of the best friends I could ever ask for.
+
+Dude, I seriously don’t know what I’d do without your dumb jokes, random late-night convos, and just all the chaos we bring whenever we hang out. You always know how to make things fun, even when life’s a mess. No matter what, I know you’ve got my back, and I hope you know I’ve always got yours too.
+
+Thanks for being real, for sticking around through all the ups and downs, and for being the kind of friend people are lucky to have. You’re like a brother to me, and yeah, I won’t say this again, so enjoy it while it lasts. 😂
+
+Hope today’s filled with good vibes, no stress, and maybe some unexpected good surprises (who knows, bro, maybe you got a secret admirer out there 👀). Stay awesome, man! 🤙🔥`,
         };
 
         const message = messages[name] || `Hi ${name}, Pakai kapital awalan oke`;
